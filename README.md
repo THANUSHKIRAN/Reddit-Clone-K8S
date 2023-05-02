@@ -26,5 +26,9 @@ Follow these steps to install and run the Reddit clone app on your local machine
 ## Test Ingress DNS for the app:
 - Test Ingress by typing this command: `curl http://domain.com/test`
 
+## Reddit Clone on Minikube 
+
+<img width="1115" alt="Screenshot 2023-05-02 154244" src="https://user-images.githubusercontent.com/53527645/235651568-9a93a896-d5de-48d3-b191-25cb2bdf511c.png">
+
 
 
